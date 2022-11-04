@@ -1,0 +1,12 @@
+.result{
+  width:400px;
+}
+.photo{
+  max-width:100%;
+  min-width:100%;
+}
+.heading{
+  color:darkgray;
+  text-align: center;
+  font-size: 20px;
+}
